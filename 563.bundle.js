@@ -1,0 +1,1 @@
+(self.webpackChunkhegic_frontend=self.webpackChunkhegic_frontend||[]).push([[563],{36563:()=>{}}]);
